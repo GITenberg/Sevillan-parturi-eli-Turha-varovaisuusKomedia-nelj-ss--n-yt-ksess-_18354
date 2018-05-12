@@ -1,0 +1,33 @@
+_repo: Sevillan-parturi-eli-Turha-varovaisuusKomedia-nelj-ss--n-yt-ksess-_18354
+_version: 0.1.0
+alternative_title: Barbier de Séville. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaumarchais, Pierre Augustin Caron de
+    aliases:
+    - Caron de Beaumarchais, Pierre Augustin
+    - De Beaumarchais, Pierre Augustin Caron
+    - Beaumarchais, M. de (Pierre Augustin Caron)
+    - Beaumarchais
+    birthdate: 1732
+    deathdate: 1799
+    gutenberg_agent_id: '7962'
+    url: http://www.gutenberg.org/2009/agents/7962
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Beaumarchais
+description: ''
+gutenberg_issued: '2006-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18354'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama (Comedy) -- 18th century'
+- !lcc 'PQ'
+title: 'Sevillan parturi eli Turha varovaisuus: Komedia neljässä näytöksessä'
+url: http://www.gutenberg.org/ebooks/18354
