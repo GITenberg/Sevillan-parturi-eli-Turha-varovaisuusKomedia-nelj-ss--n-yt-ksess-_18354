@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7962
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Beaumarchais
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18354#Sevillan-parturi-eli-Turha-varovaisuusKomedia-nelj-ss--n-yt-ksess-
 gutenberg_issued: '2006-05-08'
 gutenberg_type: Text
 identifiers:
